@@ -19,4 +19,4 @@ for end in ends:
         war = tags[9].text
         d[name] = [war, link]
 
-print(d)
+#print(d)
